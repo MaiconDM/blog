@@ -22,3 +22,4 @@ Esse projeto está estruturado entre Artigos e Categorias com o controle de Usu�
   - Bootstrap para a estilização básica
   
   
+Projeto foi criado com a intenção inteiramente de estudo, sem fim lucrativos.
